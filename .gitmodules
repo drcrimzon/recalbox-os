@@ -1,9 +1,9 @@
 [submodule "recalbox-emulationstation"]
 	path = recalbox-emulationstation
-	url = https://github.com/digitallumberjack/recalbox-emulationstation
+	url = https://github.com/drcrimzon/recalbox-emulationstation
 [submodule "recalbox-buildroot"]
 	path = recalbox-buildroot
-	url = http://github.com/digitallumberjack/recalbox-buildroot
+	url = http://github.com/drcrimzon/recalbox-buildroot
 [submodule "recalbox-rescue"]
 	path = recalbox-rescue
-	url = https://github.com/recalbox/recalbox-rescue
+	url = https://github.com/drcrimzon/recalbox-rescue
